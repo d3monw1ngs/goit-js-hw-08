@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/d3monw1ngs/goit-js-hw-08",
+  "homepage": "https://d3monw1ngs.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d3monw1ngs/goit-js-hw-08"
+    "url": "git+https://github.com/d3monw1ngs/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Marie Tess Awas <tezzielumsit87@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/d3monw1ngs/goit-js-hw-08"
+    "url": "https://github.com/d3monw1ngs/goit-js-hw-08/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
